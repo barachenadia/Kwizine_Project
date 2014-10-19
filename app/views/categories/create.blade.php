@@ -1,0 +1,1 @@
+/home/nadia/Documents/kwisine/app/views/categories/create.blade.php
